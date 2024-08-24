@@ -4,10 +4,10 @@
 
 ### **[a)Get all the countries from Asia continent /region using Filter method](a)**
 
-### **[b)Get all the countries with a population of less than 2 lakhs using Filter method](b.population.js)**
+### **[b)Get all the countries with a population of less than 2 lakhs using Filter method](b)**
 
-### **[c)Print the following details name, capital, flag, using forEach method](c.print_the_following_details.js)**
+### **[c)Print the following details name, capital, flag, using forEach method](c)**
 
-### **[d)Print the total population of countries using reduce method](d.total_population_rest.js)**
+### **[d)Print the total population of countries using reduce method](d)**
 
-### **[e)Print the country that uses US dollars as currency](e.us%20currency.js)**
+### **[e)Print the country that uses US dollars as currency](e)**
