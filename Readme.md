@@ -6,8 +6,8 @@
 
 ### **b)Get all the countries with a population of less than 2 lakhs using Filter method** []()
 
-c)Print the following details name, capital, flag, using forEach method
+### **c)Print the following details name, capital, flag, using forEach method**
 
-d)Print the total population of countries using reduce method
+### **d)Print the total population of countries using reduce method**
 
-e)Print the country that uses US dollars as currency.
+### **e)Print the country that uses US dollars as currency.**
